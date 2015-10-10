@@ -156,6 +156,7 @@
 		B39A343A1BB27D5900D40AC8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "TECH::CAMP";
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				B39A34631BB27D5900D40AC8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B39A34641BB27D5900D40AC8 /* Build configuration list for PBXNativeTarget "Git_sampleTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				B39A34661BB27D5900D40AC8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

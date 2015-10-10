@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         let textLabel = UILabel(frame: CGRectMake(0, 0, 300, 100))
         textLabel.layer.position = CGPoint(x: self.view.bounds.width / 2, y: self.view.bounds.height / 2)
         textLabel.backgroundColor = UIColor.redColor()
-        textLabel.text = "Hello World!"
+        textLabel.text = "Tech::Camp"
         textLabel.font = UIFont.systemFontOfSize(40)
         textLabel.textColor = UIColor.whiteColor()
         textLabel.shadowColor = UIColor.blueColor()
